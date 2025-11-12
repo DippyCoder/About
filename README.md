@@ -56,4 +56,4 @@ If you wanna read more
 
 
 
-<b style="color: red;">DUDE!?... GO TOUCH GRASS MAN</b>
+<b style="color: #ff0000;">DUDE!?... GO TOUCH GRASS MAN</b>
